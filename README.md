@@ -1,12 +1,12 @@
-[![Travis build status](https://travis-ci.org/fhernanb/stests.svg?branch=master)](https://travis-ci.org/fhernanb/stests)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/stests)](https://cran.r-project.org/package=stests)
-[![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/stests)](https://cran.r-project.org/package=stests)
+[![Travis build status](https://travis-ci.org/fhernanb/lambdap.svg?branch=master)](https://travis-ci.org/fhernanb/lambdap)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/lambdap)](https://cran.r-project.org/package=lambdap)
+[![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/lambdap)](https://cran.r-project.org/package=lambdap)
 
 # lambdap <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
-An R package with useful functions to perform several statistical tests.
+An R package with useful functions to implement the p-value-based approach to the Box-Cox transformation proposed by Vélez, Correa and Marmolejo-Ramos (2015)(Vélez, Correa, and Marmolejo-Ramos 2015).
 
-You can visit the [package website](https://fhernanb.github.io/stests/index.html) to explore the vignettes (articles) and function reference.
+You can visit the [package website](https://fhernanb.github.io/lambdap/index.html) to explore the vignettes (articles) and function reference.
 
 ### Installation
 
@@ -14,5 +14,5 @@ You can visit the [package website](https://fhernanb.github.io/stests/index.html
 
 ```r
 if (!require('devtools')) install.packages('devtools')
-devtools::install_github('fhernanb/stests', force=TRUE)
+devtools::install_github('fhernanb/lambdap', force=TRUE)
 ```
