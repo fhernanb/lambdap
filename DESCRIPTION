@@ -4,7 +4,7 @@ Title: This package implements the p-value-based approach to the Box-Cox transfo
 Version: 0.1.0
 Authors@R: c(
     person(given="Jorge Ivan",
-           family="Velez Balbuena", 
+           family="Velez Valbuena", 
            email="jvelezv@uninorte.edu.co", 
            role = c("aut", "cre"), 
            comment = c(ORCID = "0000-0001-7459-3329")),
@@ -12,7 +12,7 @@ Authors@R: c(
            family="Machado Dominguez", 
            email="lfmachado@uninorte.edu.co", 
            role = c("aut"),
-           comment = c(ORCID = "0000-0001-7459-3329")),
+           comment = c(ORCID = "0000-0003-3763-0359")),
     person(given="Freddy", 
            family="Hernandez Barajas",
            email="fhernanb@unal.edu.co", 
