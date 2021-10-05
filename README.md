@@ -2,6 +2,11 @@
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/lambdap)](https://cran.r-project.org/package=lambdap)
 [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/lambdap)](https://cran.r-project.org/package=lambdap)
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/fhernanb/lambdap/workflows/R-CMD-check/badge.svg)](https://github.com/fhernanb/lambdap/actions)
+<!-- badges: end -->
+
+
 # lambdap <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
 An R package with useful functions to implement the p-value-based approach to the Box-Cox transformation proposed by Vélez, Correa and Marmolejo-Ramos (2015)(Vélez, Correa, and Marmolejo-Ramos 2015).
