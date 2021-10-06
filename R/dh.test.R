@@ -8,6 +8,7 @@
 #'
 #' @example examples/examples_dh_test.R
 #'
+#' @importFrom stats cov.wt cor pnorm pchisq
 #' @export
 #'
 dh.test <- function (x){
