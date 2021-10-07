@@ -1,23 +1,35 @@
-[![Travis build status](https://travis-ci.org/fhernanb/lambdap.svg?branch=master)](https://travis-ci.org/fhernanb/lambdap)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/lambdap)](https://cran.r-project.org/package=lambdap)
-[![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/lambdap)](https://cran.r-project.org/package=lambdap)
 
-<!-- badges: start -->
-[![R-CMD-check](https://github.com/fhernanb/lambdap/workflows/R-CMD-check/badge.svg)](https://github.com/fhernanb/lambdap/actions)
-<!-- badges: end -->
-
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # lambdap <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
-An R package with useful functions to implement the p-value-based approach to the Box-Cox transformation proposed by Vélez, Correa and Marmolejo-Ramos (2015)(Vélez, Correa, and Marmolejo-Ramos 2015).
+<!-- badges: start -->
 
-You can visit the [package website](https://fhernanb.github.io/lambdap/index.html) to explore the vignettes (articles) and function reference.
+[![CRAN
+status](https://www.r-pkg.org/badges/version/lambdap)](https://CRAN.R-project.org/package=lambdap)
+[![R-CMD-check](https://github.com/fhernanb/lambdap/workflows/R-CMD-check/badge.svg)](https://github.com/fhernanb/lambdap/actions)
+<!-- badges: end -->
 
-### Installation
+An R package with useful functions to implement the p-value-based
+approach to the Box-Cox transformation proposed by Vélez, Correa and
+Marmolejo-Ramos (2015)(Vélez, Correa, and Marmolejo-Ramos 2015).
 
-* Install latest development version from GitHub using the code given below:
+You can visit the [package
+website](https://fhernanb.github.io/lambdap/index.html) to explore the
+vignettes (articles) and function reference.
 
-```r
-if (!require('devtools')) install.packages('devtools')
-devtools::install_github('fhernanb/lambdap', force=TRUE)
+## Installation
+
+You can install the released version of lambdap from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("lambdap")
+```
+
+And the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("fhernanb/lambdap")
 ```
